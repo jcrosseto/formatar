@@ -1,7 +1,7 @@
 # formatar
 Função em Javascript para formatação de qualquer dado num formulário html
 
-Já vi muitas funções que tem esse propósito, mas nenhuma delas realmente me deixaram satisfeitos.
+Já vi muitas funções que tem esse propósito, mas nenhuma delas realmente me deixaram satisfeito.
 Hoje eu criei a minha função com este propósito e ficou do jeito que eu queria e por isto resolvi compartilhar.
 
 A forma de uso é simples:
